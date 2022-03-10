@@ -1,11 +1,16 @@
 _repo: Palkkapiian-paivakirja_67565
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: cover.jpg
 creator:
   author:
     agent_name: Pennanen, Ain'Elisabet
     gutenberg_agent_id: '54334'
     url: http://www.gutenberg.org/2009/agents/54334
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67565#Palkkapiian-paivakirja
 gutenberg_issued: '2022-03-05'
 identifiers:
   gutenberg: '67565'
